@@ -2,7 +2,7 @@
 | № | Наименование проекта | Описание проекта | Стек |
 | -------- | -------- | -------- | -------- |
 | 1 | [Исследование объявлений о продаже квартир](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%201) | Выявление параметров, влияющих на цену объектов недвижимости, для отслеживания аномалий | Python, pandas, matplotlib |
-| 2 |  || Python, pandas, matplotlib |
+| 2 | [Статистический анализ сервиса аренды самокатов](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%202) | Проверка гипотез с целью выявления акций, способствующих увеличению количества пользователей с подпиской| Python, pandas, numpy, matplotlib, scipy.stats |
 | 3 |  || Python, pandas |
 | 4 |  || Python, pandas |
 | 5 |  || Python, pandas |
