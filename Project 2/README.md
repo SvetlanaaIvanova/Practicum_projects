@@ -1,8 +1,8 @@
 ## Исследование данных о пользователях и совершенных ими поездках на самокатах сервиса аренды самокатов.
 
-[HTML](https://github.com/SvetlanaaIvanova/Practicum_projects/blob/main/Project%201/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.html)
+[HTML](https://github.com/SvetlanaaIvanova/Practicum_projects/blob/main/Project%202/84841f63-9b12-4702-9bd2-2c4247cb8682-Copy1.html)
 
-[ipynb](https://github.com/SvetlanaaIvanova/Practicum_projects/blob/main/Project%201/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb)
+[ipynb](https://github.com/SvetlanaaIvanova/Practicum_projects/blob/main/Project%202/84841f63-9b12-4702-9bd2-2c4247cb8682-Copy1.ipynb)
 
 ### Описание проекта
 На исходных данных о пользователях и совершенных ими поездках проверены 3 гипотезы, которые могли бы способоствовать увеличению количества пользователей с подпиской в результате проведения акций:
