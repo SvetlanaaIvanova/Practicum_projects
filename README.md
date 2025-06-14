@@ -5,7 +5,7 @@
 | 2 | [Статистический анализ сервиса аренды самокатов](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%202.%20Scooters) | Проверка гипотез с целью выявления акций, способствующих увеличению количества пользователей с подпиской| Python, pandas, numpy, matplotlib, scipy.stats |
 | 3 | [Исследование данных о продажах видеоигр](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%203.%20Games) | Выявление определяющие успешность игры закономерности, что позволит интернет-магазину сделать ставку на потенциально популярный продукт и спланировать рекламные кампании| Python, pandas, numpy, matplotlib.pyplot, scipy.stats |
 | 4 | [Прогноз показателей буренок фермы](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%204.%20Ferma) |Машинное обучение моделей для прогноза показателей с целью отбора буренок к покупке на ферму | Python, pandas, numpy, matplotlib.pyplot, scipy.stats, seaborn, sklearn |
-| 5 |  || Python, pandas |
+| 5 | [Предсказание вероятности снижения покупательской активности](https://github.com/SvetlanaaIvanova/Practicum_projects/blob/main/Project%205.%20Sales/README.md)|Машинное обучение для предсказания вероятности снижения покупательской активности для персонализации предложений клиентам магазина с целью повышения их покупательской активности | Python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn, shap, phik|
 | 6 |  || Python, pandas |
 | 7 |  || Python, pandas |
 | 8 |  || Python, pandas |
