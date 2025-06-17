@@ -9,7 +9,7 @@
 | 6 | [Предсказание поведения сотрудников компании](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%206.%20HR)|Модели машинного обучения для предсказания уровня удовлетворённости сотрудников и предсказания увольнений сотрудников компании в целях снижения финансовых потерь и оттока сотрудников| Python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn, phik |
 | 7 | [Выбор локации для скважины добывающей компании](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%207.%20Location) |Модель машинного обучения для определения региона, в котором добыча принесёт наибольшую прибыль, и прогноз возможных прибыли и рисков| Python, pandas, numpy, sklearn, phik, RandomizedSearchCV, bootstrap|
 | 8 | [Определение стоимости автомобилей](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%208.%20Cars)| Машинное обучение моделей и отбор лучшей среди них для определения стоимости автомобилей| Python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn, pipeline, phik, RandomizedSearchCV, CatBoostRegressor, LGBMRegressor|
-| 9 |  || Python, pandas |
+| 9 | [Прогнозирование заказов такси](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%209.%20Taxi) | Анализ временных рядов, машинное обучение моделей и отбор лучшей среди них для прогноза количества заказов такси | Python, pandas, numpy, matplotlib.pyplot, sklearn, catboost, statsmodels, phik |
 | 10 |  || Python, pandas |
 | 11 |  || Python, pandas |
 | 12 |  || Python, pandas |
