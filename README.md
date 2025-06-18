@@ -12,5 +12,4 @@
 | 9 | [Прогнозирование заказов такси](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%209.%20Taxi) | Анализ временных рядов, машинное обучение моделей и отбор лучшей среди них для прогноза количества заказов такси | Python, pandas, numpy, matplotlib.pyplot, sklearn, catboost, statsmodels, phik |
 | 10 | [Классификация текстов](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%2010.%20Texts) | Очистка и лемматизация текстов, машинное обучение моделей и отбор лучшей среди них для классификации текстов с целью выявления негативных комментариев для их модерации | Python, pandas, numpy, sklearn, torch, transformers, matplotlib.pyplot, seaborn, wordcloud, notebook.tqdm, nltk, re|
 | 11 | [Определение возраста покупателей](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%2011.%20Faces) | Анализ изображений, обучение сверточной нейронной сети ResNet50 для определения возраста человека | Python, pandas, numpy, matplotlib.pyplot, PIL, tensorflow.keras, ImageDataGenerator, Adam, ResNet50 |
-| 12 |  || Python, pandas |
-| 13 |  || Python, pandas |
+| 12 | [Прогнозирование температуры сплавов](https://github.com/SvetlanaaIvanova/Practicum_projects/tree/main/Project%2012.%20Temperature) || Python, pandas |
